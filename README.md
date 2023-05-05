@@ -1,23 +1,8 @@
 # Anomaly Detection for Tool Wear Monitoring Using a Disentangled-Variational-Autoencoder
 Demonstration of anomaly detection on the [UC Berkeley milling data set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) using a disentangled-variational-autoencoder (beta-VAE). 
 
-The method is described in the article "Self-supervised learning for tool wear monitoring with a disentangled-variational-autoencoder" in IJHM. Link to the [preprint is here](https://github.com/tvhahn/ml-tool-wear/raw/a0e4259ae57d47c623785d907e803134fe87d651/hahn2021self.pdf). The method is also described in my MASc thesis, *[Feature Engineering and End-to-End Deep Learning in Tool Wear Monitoring](https://qspace.library.queensu.ca/handle/1974/28150)*.
-
-I also have detailed blog posts exploring the UC Berkeley milling data set ([here](https://www.tvhahn.com/posts/milling/)),  describing how the VAE is constructed ([here](https://www.tvhahn.com/posts/building-vae/)), and analyzing the results of the anomaly detection model ([here](https://www.tvhahn.com/posts/anomaly-results/)). The code is well explained in the blog posts (and associated colab notebooks).
-
-Feel free to cite my research if you use it in any academic research.
-```
-@article{hahn2021self,
-  title={Self-supervised learning for tool wear monitoring with a disentangled-variational-autoencoder},
-  author={Hahn, Tim Von and Mechefske, Chris K},
-  journal={International Journal of Hydromechatronics},
-  volume={4},
-  number={1},
-  pages={69--98},
-  year={2021},
-  publisher={Inderscience Publishers (IEL)}
-}
-```
+The method is described in the article "Self-supervised learning for tool wear monitoring with a disentangled-variational-autoencoder" in IJHM. Link to the [preprint is here](https://github.com/tvhahn/ml-tool-wear/raw/a0e4259ae57d47c623785d907e803134fe87d651/hahn2021self.pdf). 
+*[Feature Engineering and End-to-End Deep Learning in Tool Wear Monitoring](https://qspace.library.queensu.ca/handle/1974/28150)*.
 
 
 ## How to Run
